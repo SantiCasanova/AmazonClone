@@ -15,10 +15,10 @@ function Home() {
                 <div className='home__row'>
                     <Product
                         id={0}
-                        title='The lean startup'
-                        price={ 19.99 }
-                        image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
-                        rating={ 4 }
+                        title='Apple Watch - Serie 7'
+                        price={ 379.99 }
+                        image="https://m.media-amazon.com/images/I/71fxj9HPLPL._AC_SL1500_.jpg"
+                        rating={ 5 }
                     />
 
                     <Product
@@ -29,23 +29,23 @@ function Home() {
                         rating={ 5 }
                     />
                     <Product
-                        id={1}
-                        title='iPhone 13 Pro Max'
-                        price={ 1099.99 }
-                        image='https://m.media-amazon.com/images/I/61l3+VGfj2L._AC_SL1500_.jpg'
+                        id={2}
+                        title='AirPods Pro'
+                        price={ 219.99 }
+                        image='https://m.media-amazon.com/images/I/71zny7BTRlL._AC_SX679_.jpg'
                         rating={ 5 }
                     />
                 </div>
                 <div className='home__row'>
                     <Product
-                        id={2}
-                        title='SAMSUNG'
-                        price={ 199.99 }
-                        image='https://m.media-amazon.com/images/I/61O45C5qASL._AC_SL1000_.jpg'
-                        rating={ 1 }
+                        id={3}
+                        title='The Lean Startup'
+                        price={ 19.99 }
+                        image='https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg'
+                        rating={ 4 }
                     />
                     <Product
-                        id={3}
+                        id={4}
                         title='HyperX QuadCast S'
                         price={ 349.99 }
                         image='https://m.media-amazon.com/images/I/61jLNwAULdL._AC_SX679_.jpg'
@@ -54,7 +54,7 @@ function Home() {
                 </div>
                 <div className='home__row'>
                     <Product
-                        id={4}
+                        id={5}
                         title='SAMSUNG Odyssey G9'
                         price={ 1499.99 }
                         image='https://m.media-amazon.com/images/I/61SQz8S+fEL._AC_SX679_.jpg'
